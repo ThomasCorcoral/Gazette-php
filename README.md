@@ -4,12 +4,13 @@ De ce fait il est possible de rajouter un article, de poster un commentaire etc.
 Le projet est disponible <a href="https://projet-gazette.netheberg.fr/">ici</a>.
 
 ## Demo
-![Preview](https://projet-gazette.netheberg.fr/)
+![Preview](https://github.com/ThomasCorcoral/Gazette-php/blob/master/gazette-accueil.png)
 
 ## Comment a-t-il été réalisé ?
 
 Ce projet a été réalisé en php, css, html, sql.<br>
-La base de donnée de base (textes, images etc...) a été donné par l'équipe pédagogique au début du projet.
+La base de donnée de base (textes, images etc...) a été donné par l'équipe pédagogique au début du projet.<br>
+Le style css a aussi été imposé afin de tester nos capacités techniques.
 
 ## Guide d'installation
 
