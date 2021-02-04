@@ -1,19 +1,17 @@
-## Quel est ce projet ?
-Il s'agit d'un site internet intéractif. En effet il est couplé à une base de donnée qui est retranscrite dynamiquement côté serveur par les programmes en php.<br>
-De ce fait il est possible de rajouter un article, de poster un commentaire etc.<br><br>
-Le projet est disponible <a href="https://projets.thomascorcoral.netheberg.fr/gazette/index.php">ici</a>.
+## What is this project?
+This is an interesting website. Indeed it is coupled to a database which is dynamically transcribed on the server side by the programs in php.<br>
+It is therefore possible to add an article, post a comment etc.<br>br>
+The project is available <a href="https://projets.thomascorcoral.com/gazette/index.php">here</a>.
 
 ## Demo
 ![Preview](https://github.com/ThomasCorcoral/Gazette-php/blob/master/gazette-accueil.png)
 
-## Comment a-t-il été réalisé ?
+## How was it realized?
 
-Ce projet a été réalisé en php, css, html, sql.<br>
-La base de donnée de base (textes, images etc...) a été donné par l'équipe pédagogique au début du projet.<br>
-Le style css a aussi été imposé afin de tester nos capacités techniques.
+This project was realized in php, css, html, sql.<br>
+The basic database (texts, images etc...) was given by the pedagogical team at the beginning of the project.<br>
+The css style was also imposed to test our technical abilities.
 
-## Guide d'installation
+## Installation Guide
 
-Le projet étant disponible sur internet il n'est pas nécessaire de l'installer. Si toutefois vous souhaitez le modifier, il vous faudra installer un environnement de travail spécial tel que lampp.
-
-Le projet est disponible <a href="https://projets.thomascorcoral.netheberg.fr/gazette/index.php">ici</a>.
+As the project is available on the internet it is not necessary to install it. However, if you want to change it, you will need to install a special working environment such as lampp.
